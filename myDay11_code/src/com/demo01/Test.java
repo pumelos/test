@@ -6,5 +6,6 @@ public class Test {
         obj.methodInner();
 		
 		sout(111);
+		sout(2222);
     }
 }
