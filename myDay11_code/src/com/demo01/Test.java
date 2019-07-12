@@ -8,6 +8,7 @@ public class Test {
 		sout(111);
 		sout(2222);
 		sout(333333);
+		sout(555555555);
 		111;
     }
 }
